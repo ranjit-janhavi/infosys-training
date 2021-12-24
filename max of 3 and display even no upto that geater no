@@ -1,0 +1,12 @@
+ def greatest(a,b,c):
+  if(a>b and a>c):
+    return a
+  elif(b>a and b>c):
+    return b
+  else:
+    return c
+great=greatest(4,6,10)
+print("greatest no is ",great)
+
+for i in range(0,great,2):
+  print("even no is",i)
