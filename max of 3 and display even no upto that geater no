@@ -10,3 +10,5 @@ print("greatest no is ",great)
 
 for i in range(0,great,2):
   print("even no is",i)
+if (a=0)
+ return HHH 
